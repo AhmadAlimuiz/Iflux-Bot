@@ -1,2 +1,0 @@
-email1_anda@gmail.com:password_anda1
-email2_anda@yahoo.com:password_anda2
